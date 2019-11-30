@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04153ead-3a8e-4d49-88ad-b8d740a38540" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modeus-phpserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modeus-phpserver.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/DB Backup/New Backup.sql.backup" beforeDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,8 +181,12 @@
       <workItem from="1575038982818" duration="6693000" />
       <workItem from="1575114457107" duration="420000" />
       <workItem from="1575115219545" duration="35000" />
+<<<<<<< HEAD
       <workItem from="1575115590040" duration="2221000" />
       <workItem from="1575118350321" duration="941000" />
+=======
+      <workItem from="1575120250847" duration="626000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
